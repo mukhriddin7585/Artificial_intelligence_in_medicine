@@ -1,0 +1,6 @@
+    field   group   n   recall  precision
+sex_group       A 486 0.900621   0.941558
+sex_group       B 214 0.600000   1.000000
+age_group   older 335 0.789916   0.940000
+age_group younger 365 0.811475   0.970588
+

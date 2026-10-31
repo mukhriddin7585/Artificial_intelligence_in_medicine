@@ -1,0 +1,2 @@
+patient_id,lab.code,lab.value,lab.unit
+SYN0001,GLU,5.5,mmol/L

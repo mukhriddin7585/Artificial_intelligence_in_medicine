@@ -1,0 +1,22 @@
+{
+  "model_version": "tsi15-v1",
+  "purpose": "30-day simulated return, educational only",
+  "features": [
+    "age",
+    "bmi",
+    "previous_visits",
+    "comorbidity",
+    "burden_per_age",
+    "sex_group"
+  ],
+  "threshold": 0.325,
+  "threshold_selected_on": "validation",
+  "split_unit": "patient_id",
+  "external_validation": false,
+  "limitations": [
+    "synthetic cohort",
+    "repeated encounters",
+    "no clinical calibration evidence",
+    "no deployment approval"
+  ]
+}

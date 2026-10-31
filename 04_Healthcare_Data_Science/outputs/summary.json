@@ -1,0 +1,9 @@
+{
+  "raw_rows": 354,
+  "retained_rows": 350,
+  "exact_duplicates": 4,
+  "age_review": 1,
+  "glucose_review": 1,
+  "source": "synthetic",
+  "imputation_applied": false
+}

@@ -1,0 +1,21 @@
+{
+  "n": 400,
+  "threshold": 0.5,
+  "accuracy": 0.96,
+  "precision": 0.9243697478991597,
+  "recall": 0.9401709401709402,
+  "specificity": 0.9681978798586572,
+  "f1": 0.9322033898305084,
+  "roc_auc": 0.994654344477666,
+  "brier": 0.06391256242406848,
+  "tn": 274,
+  "fp": 9,
+  "fn": 7,
+  "tp": 110,
+  "source": "synthetic",
+  "median_turnaround_min": 11.661050640545636,
+  "median_baseline_min": 15.82615963376145,
+  "override_fraction": 0.04,
+  "saved_hours_in_simulation": 28.38108421051801
+}
+

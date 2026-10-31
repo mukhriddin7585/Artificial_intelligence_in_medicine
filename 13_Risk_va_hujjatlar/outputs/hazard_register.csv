@@ -1,0 +1,4 @@
+hazard,harm,severity,likelihood,proposed_control,internal_priority
+Wrong output,Delayed review,4,3,Human review,12
+Input drift,Unreliable output,3,3,Drift monitoring,9
+Data exposure,Privacy harm,4,2,Access control,8

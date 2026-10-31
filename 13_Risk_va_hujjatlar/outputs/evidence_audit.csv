@@ -1,0 +1,11 @@
+item,status,evidence_file,owner,evidence_present,needs_review
+intended_use,draft,,Student,False,True
+user_population,draft,,Student,False,True
+input_output,draft,,Student,False,True
+analytical_validation,missing,,Student,False,True
+clinical_evaluation,missing,,Student,False,True
+cybersecurity,missing,,Student,False,True
+human_factors,missing,,Student,False,True
+change_control,missing,,Student,False,True
+monitoring,missing,,Student,False,True
+data_provenance,missing,,Student,False,True

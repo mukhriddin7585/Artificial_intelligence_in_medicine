@@ -1,0 +1,6 @@
+{
+  "input": 905,
+  "retained": 900,
+  "exact_duplicates_removed": 5,
+  "missing_bmi_after_quality_filter": 30
+}

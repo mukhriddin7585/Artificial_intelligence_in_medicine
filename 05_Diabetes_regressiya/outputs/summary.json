@@ -1,0 +1,9 @@
+{
+  "n_train": 353,
+  "n_test": 89,
+  "best_params": {
+    "ridge__alpha": 10
+  },
+  "task": "regression",
+  "target": "one_year_progression"
+}

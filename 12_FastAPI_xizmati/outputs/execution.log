@@ -1,0 +1,4 @@
+{'demo_probability': 0.3081248890923691, 'model_version': 'tsi-12-demo-v1', 'educational_only': True}
+
+/workspace/scratch/e5575f96fe94/project_runtime_deps/fastapi/testclient.py:1: StarletteDeprecationWarning: Using `httpx` with `starlette.testclient` is deprecated; install `httpx2` instead.
+  from starlette.testclient import TestClient as TestClient  # noqa

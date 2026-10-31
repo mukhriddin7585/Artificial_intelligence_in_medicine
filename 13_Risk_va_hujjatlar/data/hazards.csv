@@ -1,0 +1,4 @@
+hazard,harm,severity,likelihood,proposed_control
+Wrong output,Delayed review,4,3,Human review
+Input drift,Unreliable output,3,3,Drift monitoring
+Data exposure,Privacy harm,4,2,Access control

@@ -1,0 +1,12 @@
+                 item  status  needs_review
+         intended_use   draft          True
+      user_population   draft          True
+         input_output   draft          True
+analytical_validation missing          True
+  clinical_evaluation missing          True
+        cybersecurity missing          True
+        human_factors missing          True
+       change_control missing          True
+           monitoring missing          True
+      data_provenance missing          True
+

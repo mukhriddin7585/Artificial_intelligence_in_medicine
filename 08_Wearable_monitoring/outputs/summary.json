@@ -1,0 +1,8 @@
+{
+  "rows": 1440,
+  "unusable_rows": 36,
+  "warmup_or_missing_baseline": 45,
+  "alerts": 21,
+  "data_source": "synthetic",
+  "injected_event_recall": 0.8666666666666667
+}

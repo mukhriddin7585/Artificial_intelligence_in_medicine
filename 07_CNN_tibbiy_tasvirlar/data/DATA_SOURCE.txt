@@ -1,0 +1,2 @@
+SYNTHETIC PHANTOM. 1 = artificial marker, 0 = no marker.
+Haqiqiy kasallik yoki klinik tasvir emas.

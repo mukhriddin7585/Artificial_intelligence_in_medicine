@@ -1,0 +1,7 @@
+{
+  "patients": 60,
+  "index_time": "2026-01-15 00:00:00",
+  "sql_matches_pandas": true,
+  "future_visits_excluded": 60,
+  "future_labs_excluded": 60
+}

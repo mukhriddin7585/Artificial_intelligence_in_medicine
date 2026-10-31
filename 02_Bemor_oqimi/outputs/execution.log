@@ -1,0 +1,9 @@
+                           n  median_wait   p90_wait  median_service  over_30_fraction
+department channel                                                                    
+A          face_to_face  117    26.455248  56.174503       14.439323          0.410256
+           telemedicine  133    20.729970  44.243748       13.250256          0.278195
+B          face_to_face   93    25.712347  54.210874       15.421051          0.376344
+           telemedicine   77    20.630156  47.632922       14.240722          0.285714
+C          face_to_face   94    28.703080  45.827564       13.612797          0.436170
+           telemedicine   86    19.773366  45.947561       12.418888          0.255814
+

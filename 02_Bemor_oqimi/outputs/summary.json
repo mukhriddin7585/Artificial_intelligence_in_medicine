@@ -1,0 +1,11 @@
+{
+  "rows": 600,
+  "valid_rows": 600,
+  "invalid_rows": 0,
+  "busiest_hours": [
+    22,
+    0,
+    12
+  ],
+  "data_source": "synthetic"
+}
