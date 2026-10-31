@@ -1,0 +1,211 @@
+{
+  "projects": [
+    {
+      "project": "01_Python_Jupyter",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 6.57,
+      "output_files": 8
+    },
+    {
+      "project": "02_Bemor_oqimi",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 3.82,
+      "output_files": 7
+    },
+    {
+      "project": "03_EHR_sifat_auditi",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 5.33,
+      "output_files": 7
+    },
+    {
+      "project": "04_Healthcare_Data_Science",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 2.81,
+      "output_files": 8
+    },
+    {
+      "project": "05_Diabetes_regressiya",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 3.81,
+      "output_files": 7
+    },
+    {
+      "project": "06_Diagnostika_modellari",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 6.22,
+      "output_files": 9
+    },
+    {
+      "project": "07_CNN_tibbiy_tasvirlar",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 12.73,
+      "output_files": 8
+    },
+    {
+      "project": "08_Wearable_monitoring",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 5.29,
+      "output_files": 7
+    },
+    {
+      "project": "09_CDSS_qoidalar",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 3.29,
+      "output_files": 7
+    },
+    {
+      "project": "10_EHR_SQL_Pandas",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 3.82,
+      "output_files": 5
+    },
+    {
+      "project": "11_Tibbiy_startup_pilot",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 2.7,
+      "output_files": 5
+    },
+    {
+      "project": "12_FastAPI_xizmati",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 6.49,
+      "output_files": 5
+    },
+    {
+      "project": "13_Risk_va_hujjatlar",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 5.81,
+      "output_files": 7
+    },
+    {
+      "project": "14_Fairness_va_maxfiylik",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 2.31,
+      "output_files": 7
+    },
+    {
+      "project": "15_Yakuniy_loyiha",
+      "status": "passed",
+      "returncode": 0,
+      "duration_seconds": 4.21,
+      "output_files": 12
+    }
+  ],
+  "total": 15,
+  "passed": 15,
+  "seed": 42,
+  "test_environment": "Python 3.12, CPU, numpy 2.3.5, scikit-learn 1.8.0; TensorFlow CPU 2.21.0; FastAPI 0.160.0",
+  "notebooks": [
+    {
+      "project": "01_Python_Jupyter",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 5.29
+    },
+    {
+      "project": "02_Bemor_oqimi",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 4.91
+    },
+    {
+      "project": "03_EHR_sifat_auditi",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 2.38
+    },
+    {
+      "project": "04_Healthcare_Data_Science",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 3.46
+    },
+    {
+      "project": "05_Diabetes_regressiya",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 5.01
+    },
+    {
+      "project": "06_Diagnostika_modellari",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 5.75
+    },
+    {
+      "project": "07_CNN_tibbiy_tasvirlar",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 23.12,
+      "updated_cli_check": {
+        "returncode": 0,
+        "status": "passed"
+      }
+    },
+    {
+      "project": "08_Wearable_monitoring",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 3.91
+    },
+    {
+      "project": "09_CDSS_qoidalar",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 2.59
+    },
+    {
+      "project": "10_EHR_SQL_Pandas",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 3.49
+    },
+    {
+      "project": "11_Tibbiy_startup_pilot",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 3.49
+    },
+    {
+      "project": "12_FastAPI_xizmati",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 3.27
+    },
+    {
+      "project": "13_Risk_va_hujjatlar",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 2.17
+    },
+    {
+      "project": "14_Fairness_va_maxfiylik",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 2.34
+    },
+    {
+      "project": "15_Yakuniy_loyiha",
+      "status": "passed",
+      "code_cells_executed": 2,
+      "seconds": 3.72
+    }
+  ],
+  "notebooks_passed": 15,
+  "notebook_test_method": "nbformat schema validation and execution of both complete code cells in isolated processes from project folders"
+}

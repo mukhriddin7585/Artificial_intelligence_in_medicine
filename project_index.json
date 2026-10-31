@@ -1,0 +1,92 @@
+{
+  "12_FastAPI_xizmati": {
+    "number": 12,
+    "title": "O‘qitilgan model uchun tekshiriladigan FastAPI xizmati",
+    "data_note": "api_training.csv: sun’iy age, bmi, systolic_bp belgilaridan hosil qilingan o‘quv target. Natija klinik xavf ehtimoli emas.",
+    "extra": {}
+  },
+  "13_Risk_va_hujjatlar": {
+    "number": 13,
+    "title": "Tibbiy dastur uchun dalillar va risklar inventari",
+    "data_note": "regulatory_inventory.csv va hazards.csv: o‘quv hujjatlari. Dastur FDA/CE tasnifi, ruxsat yoki muvofiqlik xulosasini bermaydi.",
+    "extra": {}
+  },
+  "14_Fairness_va_maxfiylik": {
+    "number": 14,
+    "title": "Subguruhlar bo‘yicha baholash va psevdonimlashtirish",
+    "data_note": "fairness_audit.csv: sun’iy guruhlar va oldindan yaratilgan ballar. HMAC psevdonimlashtirish anonimlashtirish kafolati emas.",
+    "extra": {}
+  },
+  "15_Yakuniy_loyiha": {
+    "number": 15,
+    "title": "Qayta murojaat uchun to‘liq mashinali o‘qitish loyihasi",
+    "data_note": "medical_project.csv: sun’iy takroriy tashriflar. Target 30 kunlik simulyatsiya natijasi; klinik samaradorlik haqidagi da’vo berilmaydi.",
+    "extra": {}
+  },
+  "01_Python_Jupyter": {
+    "number": 1,
+    "title": "Python va Jupyter muhitida dastlabki model",
+    "data_note": "Scikit-learn tarkibidagi haqiqiy WDBC ochiq ma’lumotlari. 1 = malignant, 0 = benign. Bu diabet dataseti emas.",
+    "extra": {}
+  },
+  "07_CNN_tibbiy_tasvirlar": {
+    "number": 7,
+    "title": "TensorFlow va Keras yordamida tasvirlarni tasniflash",
+    "data_note": "Standart demo: sun’iy tomografik fantomlar, haqiqiy rentgen/MRI emas. Haqiqiy PNG/JPG tasvirlar data/manifest.csv orqali ulanadi. patient_id, path, label (0 yoki 1) ustunlari majburiy.",
+    "extra": {}
+  },
+  "08_Wearable_monitoring": {
+    "number": 8,
+    "title": "Sensor vaqt qatorlari va anomaliyalarni aniqlash",
+    "data_note": "wearable_hr.csv: uchta sun’iy sensor oqimi. Anomaliya belgisi simulyatsiyaga tegishli; z-score klinik diagnostika mezoni emas.",
+    "extra": {}
+  },
+  "09_CDSS_qoidalar": {
+    "number": 9,
+    "title": "Qoidaga asoslangan yordamchi tizim va qaror daraxti",
+    "data_note": "cdss_patients.csv: sun’iy holatlar. Qoidalar qo‘llanmadagi o‘quv misolini bajaradi, klinik protokol yoki tavsiya emas.",
+    "extra": {}
+  },
+  "10_EHR_SQL_Pandas": {
+    "number": 10,
+    "title": "EHR tarixidan vaqtga mos belgilar ajratish",
+    "data_note": "patients.csv, ehr_visits.csv, labs.csv: sun’iy EHR jadvallari. 2026-01-15 indeks vaqtidan keyingi ma’lumotlar ishlatilmaydi.",
+    "extra": {}
+  },
+  "11_Tibbiy_startup_pilot": {
+    "number": 11,
+    "title": "Tibbiy startap prototipi va pilot natijalari",
+    "data_note": "startup_pilot.csv: sun’iy ekspert yorliqlari, model ballari va vaqt o‘lchovlari. KPIlar haqiqiy klinik yoki biznes natijasi emas.",
+    "extra": {}
+  },
+  "02_Bemor_oqimi": {
+    "number": 2,
+    "title": "Bemor oqimi va telemeditsina xizmatini tahlil qilish",
+    "data_note": "patient_flow.csv: takrorlanuvchi sun’iy tashriflar. Kanallar orasidagi farq sababiy ta’sir isboti emas.",
+    "extra": {}
+  },
+  "03_EHR_sifat_auditi": {
+    "number": 3,
+    "title": "EHR ekotizimi va ma’lumot sifati auditi",
+    "data_note": "ehr_sample.csv va ehr_messages.json: xatolari ataylab kiritilgan sun’iy EHR; note matni tuzilmaviy maydon emas.",
+    "extra": {}
+  },
+  "04_Healthcare_Data_Science": {
+    "number": 4,
+    "title": "Tibbiy ma’lumotlarni tozalash va vizuallashtirish",
+    "data_note": "clinical_measurements.csv: sun’iy o‘lchovlar. Review flag diagnostik chegara emas; g‘ayrioddiy qiymatlar yashirilmaydi.",
+    "extra": {}
+  },
+  "05_Diabetes_regressiya": {
+    "number": 5,
+    "title": "Diabetes datasetida regressiya va Pipeline",
+    "data_note": "Scikit-learn diabetes: haqiqiy ochiq dataset. Target bir yildan keyingi kasallik rivojining miqdoriy ko‘rsatkichi; diabet bor/yo‘q emas.",
+    "extra": {}
+  },
+  "06_Diagnostika_modellari": {
+    "number": 6,
+    "title": "Logistik regressiya va Random Forest taqqoslash",
+    "data_note": "heart_disease.csv: sun’iy yurak xavfi ma’lumotlari. Target simulyatsiya formulasi bilan yaratilgan, klinik tashxis emas.",
+    "extra": {}
+  }
+}
